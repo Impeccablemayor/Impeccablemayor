@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on my final year project in university of ilorin
+- 🌱 I’m currently learning asp.net core 
+- 👯 I’m looking to collaborate on projects
