@@ -61,8 +61,8 @@ They showcase:
 - Serious collaborations  
 
 📫 **Let’s connect**
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: yourname@email.com
+- LinkedIn: https://www.linkedin.com/in/mayowa-binuyo
+- Email: binuyomayor16@gmail.com 
 
 ---
 
